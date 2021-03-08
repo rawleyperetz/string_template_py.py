@@ -1,7 +1,7 @@
 import os 
 import pandas as pd
 data_df = pd.DataFrame([ 
-    ['Amankwah',24,'Techiman','Crystal'],
+    ['Amankwah',24,'Techiman','Delali'],
     ['Emma',27,'Tech','Vicky']], columns=['names','age','town','ladies'])
 print(data_df)
 print('=================================')
